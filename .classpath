@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="similarity"/>
+	<classpathentry kind="src" path="index"/>
+	<classpathentry kind="src" path="cran"/>
+	<classpathentry kind="src" path="result"/>
+	<classpathentry exported="true" kind="lib" path="E:/Lucene Workspace/lucene-analyzers-common-8.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Lucene Workspace/lucene-queryparser-8.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Lucene Workspace/lucene-core-8.7.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
